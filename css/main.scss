@@ -1,0 +1,237 @@
+
+
+body {
+    height: 100vh;
+    margin: 0;
+    // color: 'white'; 
+    // background-image: url("./photos/foto1.jpg");
+    background: rgb(var(--z1),var(--z2),var(--z3));
+    background-image: var(--z1);//url("/photos/foto1.jpg");//var(--z1); //(url("/photos/foto1.jpg");//var(--z1);
+    background-repeat: no-repeat;
+    -o-background-size: cover;
+    background-size: cover;
+    //height: var(--z7);
+    // width: var(--z8);
+
+    &::after{
+        
+        content: ' ';
+        //position: absolute;
+        top: 0;
+        left: 0;
+        // height: var(--z7);
+        // width: var(--z8);
+        // background: rgb(var(--z1),var(--z2),var(--z3));
+        
+    }
+    
+}
+
+.option0
+{   
+  position: absolute;
+
+  float:middle;
+  font-size: 200px;
+  letter-spacing: 200px;
+  height: 0%;
+  width: 0%;
+  padding: 0px;
+  margin: 25%;
+  color: rgb(var(--z1),var(--z2),var(--z3));
+  background: rgb(var(--z4),var(--z5),var(--z6));
+}
+
+.optionA
+{   
+  // float:middle;
+  font-size: var(--z7);
+  letter-spacing: var(--z8);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+}
+
+.optionB
+{  
+  // float:middle;
+  font-size: var(--z9);
+  letter-spacing: var(--z10);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+}
+
+.optionC
+{  
+  // float:middle;
+  font-size: var(--z11);
+  letter-spacing: var(--z12);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+}
+
+.optionD
+{   
+  // float:middle;
+  font-size: var(--z13);
+  letter-spacing: var(--z14);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+  bottom: 100px;
+}
+
+
+.optionE
+{   
+  // text-align: center;
+
+  position: relative;
+  right: var(--z17);
+  left: var(--z18);
+  top: var(--z17);
+  bottom: var(--z18);
+
+
+
+  font-size: var(--z15);
+  letter-spacing: var(--z16);
+  height: var(--z19);
+  width:var(--z20);
+  //color: rgb(var(--z1),var(--z2),var(--z3));
+  //background: rgb(var(--z4),var(--z5),var(--z6));
+  //margin: var(--z17);
+  
+}
+
+.optionF
+{   
+  font-size: var(--z21);
+  letter-spacing: var(--z22);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+}
+
+
+.optionG
+{   
+  position: absolute;
+  right: var(--z23);
+  left: var(--z24);
+  top: var(--z23);
+  bottom: var(--z24);
+
+
+
+  font-size: var(--z25);
+  letter-spacing: var(--z26);
+  height: var(--z27);
+  width:var(--z28);
+}
+
+.optionH
+{   
+  position: absolute;
+  right: var(--z29);
+  left: var(--z30);
+  top: var(--z29);
+  bottom: var(--z30);
+
+  font-size: var(--z31);
+  letter-spacing: var(--z32);
+  height: var(--z33);
+  width:var(--z34);
+}
+
+.optionI
+{   
+  position: absolute;
+  right: var(--z35);
+  left: var(--z36);
+  top: var(--z35);
+  bottom: var(--z36);
+
+
+
+  font-size: var(--z37);
+  letter-spacing: var(--z38);
+  height: var(--z39);
+  width:var(--z40);
+}
+
+.optionJ
+{  
+  // float:middle;
+  font-size: var(--z41);
+  letter-spacing: var(--z42);
+  height: 50%;
+  width: 50%;
+  // padding: 50px;
+  margin: 25%;
+  bottom: 100px;
+}
+
+a
+{   
+  // float:middle;
+
+  text-decoration: none;
+  font-size: var(--z12);
+  height: 0%;
+  width: 0%;
+  padding: 0px;
+  margin: 0%;
+  color: rgb(var(--z1),var(--z2),var(--z3));
+  background: rgb(var(--z4),var(--z5),var(--z6));
+}
+
+  .square {
+    width: 50%;
+    padding-bottom: 50%;
+    margin: 25%;
+    // position: relative;
+    background-color:rgb(var(--z4),var(--z5),var(--z6)); 
+  }
+
+  .circle {
+    // position: absolute;
+    margin: 50%;
+    top: 0%; 
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    height: 100%;
+    background-color:rgb(var(--z4),var(--z5),var(--z6));
+    border-radius: 50%;
+  }
+
+  .triangle-up {
+    // position: absolute;
+    height:0%;
+    width:0%;
+    margin-left:10%;
+    margin-top:10%;
+    bottom:10%;
+
+
+    border-top: 0px solid transparent;
+
+    border-left: 1000px solid transparent;
+    border-right: 1000px solid transparent;
+    border-bottom: 1000px solid rgb(var(--z4),var(--z5),var(--z6));
+
+    // border-top: 500px solid #4679BD;
+    
+
+  }
+
+ 

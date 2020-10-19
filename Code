@@ -1,0 +1,21 @@
+</script>
+
+  <div class="options">
+
+    <div class="option">
+      <!-- <div class="emoji"></div> -->
+
+      <div class="description"><a href="chaos1.html">Chaos1</a></div>
+    </div>
+
+    <div class="option">
+      <!-- <div class="emoji"></div> -->
+      <div class="description"><a href="single_sketch.html">Single sketch</a></div>
+    </div>
+
+    <div class="option">
+      <!-- <div class="emoji"></div> -->
+      <div class="description"><a href="multi_sketch.html">Multi sketch</a></div>
+    </div>
+    
+  </div>
