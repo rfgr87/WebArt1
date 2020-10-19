@@ -1,3 +1,5 @@
-# p5.js-templates
+WebArt3
 
-p5.js templates for ID311 Software Prototyping.
+This App is a WebArt App were dynamic CSS algorithms are explored to create interesting visual dynamics.
+
+After opening this file in VSCode run Go Live or open index.html to see the program running in the browser.
